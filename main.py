@@ -405,5 +405,5 @@ async def getUserCharForRPS(context, bot):
     return str(reaction.emoji)
 
 
-user.run()
+user.run() #<-- In this line you have to put your bot_token provided to you at the time of creating bot in the form of string
 server.server()
