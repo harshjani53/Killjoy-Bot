@@ -108,7 +108,7 @@ async def greet(context):
 
 
 @user.command()
-async def ser(context, *args):
+async def ser(context, *args):  #<-- to run this command you have to be highly specific when entering the search criteria, won't work 100% of time
     inp_str = ''
     for arg in args:
         inp_str += arg + " "
