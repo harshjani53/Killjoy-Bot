@@ -4,3 +4,4 @@ Firstly Killjoy works on discord application, which is a free application for vo
 It works with the help of discord.py, which is a modern, easy to use, feature-rich, and async ready API wrapper for Discord.
 To make and program your own bot, you have to create bot from discord's official site and make thebot join your discord server.
 Killjoy bot has many features, while running this bot type !info to know about the features of the bot.
+This bot runs 24*7 as it is deployed using flask. Flask is a web application development framework written in python.
