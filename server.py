@@ -5,7 +5,7 @@ app = Flask('')
 
 @app.route('/')
 def home():
-    return "Hello"
+    return "Bot is Running"
 
 
 def run():
